@@ -4,6 +4,7 @@ Project Overview
 This project fine-tunes the TinyLlama-1.1B-Chat model on the Alpaca dataset using LoRA (Low-Rank Adaptation) to improve instruction-following and question-answering capabilities while keeping GPU requirements minimal.
 
 Key Steps in This Project
+
 1️⃣ Loaded the Pre-Trained TinyLlama Model
 
 Used TinyLlama-1.1B-Chat as the base model, which is a small yet powerful open-source LLM optimized for efficiency.
